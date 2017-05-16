@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "may",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^4.0.4",
+    "slackbots": "^0.3.0"
+  }
+}
